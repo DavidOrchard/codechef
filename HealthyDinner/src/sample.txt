@@ -1,0 +1,10 @@
+3
+2 3 4
+baba
+7
+5 12 1 12 4 4
+acccdadceb
+2
+3 5 4 6
+abcbacbabcc
+15
